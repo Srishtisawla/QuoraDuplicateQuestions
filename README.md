@@ -32,3 +32,5 @@ Some links which might help:
 - https://www.linkedin.com/pulse/duplicate-quora-question-abhishek-thakur/
 - The problem is also hosted on Kaggle and you can find a lot of kernels which solved
 this problem. https://www.kaggle.com/c/quora-question-pairs#description
+
+https://shrib.com/#q36KtEKo6R64yQ3GRezc
